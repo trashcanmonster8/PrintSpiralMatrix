@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\bin\Debug\PrintSpiral.exe.config
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\obj\Debug\PrintSpiral.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\bin\Debug\PrintSpiral.exe
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\bin\Debug\PrintSpiral.pdb
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\obj\Debug\PrintSpiral.exe
+C:\Users\admin\Documents\C# Programs\Chapter 6\PrintSpiral\PrintSpiral\obj\Debug\PrintSpiral.pdb
